@@ -1,6 +1,6 @@
 
 # 变量名称填: dwjkAccounts (可在下方自定义修改)
-# 自定义环境变量名称，一般无需修改默认即可！
+# 自定义环境变量名称，一般无需修改默认即可
 bianliang = "dwjkAccounts"
 # 变量值填: uid#Authorization#openid (抓包可获取)
 # 多号请&隔开，也可以新建变量！
